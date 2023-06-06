@@ -1,0 +1,90 @@
+body{
+    background-color: #ffffff;
+}
+
+.navbar{
+    
+    width: 100px;
+    height: 60px;
+}
+
+.stunning-logo{
+    width: 120px;
+    height: 60px;
+}
+ .menu-item{
+    margin: 40px;
+    font-family: 'Raleway',sans-serif;
+    cursor: pointer;
+    font-size: 14px;
+   float: right;
+   
+   
+ }
+
+ .button{
+    background-color:#ffd8db ;
+    float: right;
+    border-radius: 14px;
+    padding: 50px;
+    margin: 20px;
+ }
+ .landing-image{
+    float: right;
+    
+ }
+ .account-button{
+    background-color: #a389cc;
+    border-radius: 16px;
+    padding: 14px;
+    
+
+ }
+ h1{
+       font-size: 100px;
+       margin-left: 80px;
+ }
+ .stunning-work{
+    font-size: 25px;
+    margin-left: 80px;
+    
+ }
+ .new-account{
+    margin-left: 100px;
+
+ }
+ .down-arrow{
+    margin-right: auto;
+ }
+ .dmm{
+    margin-left: 80px;
+    padding: 40px;
+
+ }
+.blurr{
+    margin-left: 80px;
+}
+
+ .ill{
+    margin-left: 80px;
+    padding:40px;
+ }
+
+ .refund{
+    margin-left: 119px;
+ }
+
+ .button{
+    background-color: #fed7da;
+    border-radius: 10px;
+    padding: 2px;
+ }
+ .button2{
+    background-color: #fd6534;
+ }
+ .button3{
+    background-color: #9ed095;
+ }
+ .button4{
+    background-color: #ffe4a0;
+ }
